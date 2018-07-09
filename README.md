@@ -1,5 +1,4 @@
-# plos_medicine_2018
-Source codes of Submitted PloS Medicine paper in 2018
+# Phenotype Discovery with Treatment Information
 
 1. Feature_Analysis.R
 - Table 1 in the manuscript
