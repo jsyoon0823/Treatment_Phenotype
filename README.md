@@ -1,4 +1,4 @@
-# Phenotype Discovery with Treatment Information
+# Phenotype Discovery
 
 1. Feature_Analysis.R
 
